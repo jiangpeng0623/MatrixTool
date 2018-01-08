@@ -9,7 +9,7 @@ namespace MatrixTool.View
 {
     public partial class TrainingCourse : System.Web.UI.Page
     {
-        /// <summary>
+        /// <summary>    
         /// 页数（从1开始）
         /// </summary>
         int pageNo = 0;
