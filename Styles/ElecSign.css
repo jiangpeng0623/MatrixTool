@@ -1,0 +1,20 @@
+﻿body,div,ul,ol,ul,li,ol,dl,dd,dt,form,span,p,textarea{margin:0;padding:0;list-style:none;font-family:"Verdana"; }
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+.content2{ width:400px; margin:12px;height:auto; overflow:hidden; position: absolute; display: none; border:solid 1px #0e2d92; z-index:101; background-color:White;border-radius:5px;}
+.line22{width:98%; margin:10px auto;height:auto; overflow:hidden;}
+.line22 ul{ width:100%; float:left;height:auto; overflow:hidden;}
+.line22 ul li{width:100%; float:left; margin-top:5px;}
+.line22 ul li label{ width:100%;}
+.line22 .input{ width:98%; height:25px; line-height:25px; border:solid 1px #c9c9c9; background:#ffffff; border-radius:5px; font-family:"Verdana"; font-size:16px; color:#818181; text-indent:15px; font-weight:lighter}
+.line22 .left{ width:49%; float:left;height:auto; overflow:hidden; }
+.line22 .right{ width:49%; float:right;height:auto; overflow:hidden;}
+.line22 .sunmit{ width:100%; height:50px; line-height:50px; border:0px; background:#e97760; border-radius:5px;font-family:"Verdana"; font-size:18px; color:#ffffff;font-weight:lighter}
+.line22 .reset{ width:100%; height:50px; line-height:50px; border:0px; background:#818181; border-radius:5px;font-family:"Verdana"; font-size:18px; color:#ffffff;font-weight:lighter}
+.line22 .left2{ width:47%; float:left; height:auto;text-align:right; overflow:hidden; margin-top:10px; }
+.line22 .right2{ width:47%; float:right; height:auto; text-align:left;overflow:hidden; margin-top:10px}
+.input03{  width:97%; height:50px;font-family:"Verdana"; font-size:14px; line-height:24px; border:1px solid #c9c9c9; border-radius:3px; padding:3px; }
+
+
+.save_button22{ width:60px; height:25px; background:#118ebd; font-family:"Verdana"; font-size:13px; line-height:25px; color:#ffffff; border-radius:3px; text-align:center;border:0px; vertical-align:middle}
+.prew_button22{ width:60px; height:25px; background:#e44d18; font-family:"Verdana"; font-size:13px; line-height:25px; color:#ffffff; border-radius:3px; text-align:center;border:0px;vertical-align:middle}
+.tit22{ font-family:"Verdana"; font-size:14px; line-height:25px; color:#848a8d;}

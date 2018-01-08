@@ -1,0 +1,168 @@
+﻿body{margin:0 0;
+	font-family:"Verdana";
+	color:#323232;
+	font-size:14px;
+	background:#fff;
+	}
+
+.title{ font-family:"Verdana"; font-size:16px; color:#1f8eee; border-bottom:#39a3ff 1px solid; text-indent:21px; line-height:40px;}
+.title_01{ font-family:"Verdana"; font-size: 12px; color:#505050; line-height:30px; text-indent:21px;  }
+/*.lan_tab{ border:2px #aed9ff solid; margin-left:21px;background-color:#f7fcff;}*/
+.lan_tab{ border:2px #aed9ff solid; background-color:#f7fcff;}
+.lan_tab td{  background-color:#f8fdff; font-family: "Verdana";  font-size:12px;}
+.name{ font-family:"Verdana"; font-size: 12px; color:#505050;text-align:center; border-right: 1px #d0dfe3 solid}
+.tablestyle 
+{
+	border: 1px solid #aed9ff;
+    line-height: 22px;
+	width: 100%;
+	border-collapse: collapse;
+	overflow:hidden;
+    font-family: "Verdana";
+    height: 22px;
+    margin-top: 0px;
+}
+
+.headerstyle th 
+{
+    line-height:22px; 
+    color:#848a8d;  /*#fffffd; */
+    background-color: #fafafa;
+    font-family: "Verdana"; 
+    font-size:12px; 
+    text-align:left; 
+    font-weight:bold;
+}  
+.headerstyle a
+{
+	color:#fff; 
+	}
+.rowstyle 
+{
+    background-color: #ffffff;
+	font-size: 12px;
+	border-color: #dedede;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#000000;
+	line-height:22px; 
+}
+.rowstyle a
+{
+	color:#505050; 
+	}
+.altrowstyle 
+{
+    font-size: 12px;
+	line-height: 22px;
+	background-color: #f2f2f2; /*b8ddfe*/
+	border-color: #dedede;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#000000; /*#505050*/
+}
+.altrowstyle a
+{
+	color:#505050; 
+	}
+
+.selrowstyle 
+{
+    font-size: 12px;
+	line-height: 22px;
+	background-color: #d6dadd;
+	border-color: #d6dadd;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#606163;
+}
+
+.outset-table
+{
+	background-color: #D7ECF5;
+	text-align: center;
+	font-weight: bold;
+	color: #004C66;
+	font-size: 9pt;
+	border-color: #d6dadd;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+.headerstyleList th 
+{
+    line-height:20px; 
+    color:#ffffff;
+    background-color: #0e2d92;
+    font-family: "Verdana"; 
+    font-size:12px; 
+    text-align:left; 
+    font-weight:bold;
+}  
+.headerstyleList a
+{
+	color:#fff; 
+	}
+	
+	
+.rowstyleList 
+{
+    background-color: #ffffff;
+	font-size: 12px;
+	border-color: #dedede;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#000000;
+	line-height:22px;
+	 height:32px; 
+}
+.rowstyleList a
+{
+	color:#505050; 
+	}
+.altrowstyleList 
+{
+    font-size: 12px;
+	line-height: 22px;
+	background-color: #f2f2f2; /*b8ddfe*/
+	border-color: #dedede;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#000000; 
+}
+.altrowstyleList a
+{
+	color:#505050; 
+	}
+
+.selrowstyleList 
+{
+    font-size: 12px;
+	line-height: 22px;
+	background-color: #d6dadd;
+	border-color: #d6dadd;
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align:left;
+    font-family: "Verdana"; 
+	color:#606163;
+}
+
+

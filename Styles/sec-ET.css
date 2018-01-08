@@ -1,0 +1,46 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/* css 清理 */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-weight: inherit;font-style: inherit;font-family: inherit; }/* font:inherit;HTML5 display-role reset for older browsers */article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}
+/* 清理结束 */
+body{margin:0; padding:0; font-family:"Verdana";  color:#5F5F5F;}
+h1,h2,h3,h4,h5,h6,dl,dt,dd,p,pre,ul,li,form,button,ol{margin:0; padding:0;}
+input,select,textarea{font-size:12px;margin:0; padding:0; }
+textarea{border:1px solid #5F5F5F;}
+ul,ol{list-style:none;}
+img{border:0;}
+a{text-decoration:none; color:#009FDA;outline:none;}
+
+
+body{background:url(../images/EasyTraining/sec_bg01.jpg) no-repeat center top; }
+.wapper{width:100%; margin:110px auto 0; height:100%; overflow:hidden; } /*1110px*/
+.line1{ width:100%; float:left;  height:100%; overflow:hidden;}
+.div01{width:410px;float:left;height: 290px;overflow:hidden;background:url(../images/EasyTraining/div01.png) left top no-repeat;border-radius:10px;}
+.div_line1{ width:100%; float:left; margin-top:20px; margin-bottom:2px; height:60px; 
+overflow:hidden; background:#36B3E2;  }/* text-transform:uppercase;*/
+.div_line1 .english{font-family:"Verdana"; font-size:8px; line-height:12px; color:#ffffff; /*text-indent:15px;*/}
+.div_line1 .tit{font-family:"Verdana"; font-size:24px; font-weight:bold; line-height:24px; color:#ffffff;  /*padding-left: 14px;*/}
+.div_line1 .tit a { color:#ffffff; }
+.div_line2{ width:80%;float:left; margin-top:15px; margin-left:35px; height:auto;  overflow:hidden; }  /*text-transform:uppercase; */ 
+.div_line2 ul li{ width:100%; float:left; font-family:"Verdana"; font-size:14px; line-height:30px;}
+.div_line2 a{ color:#009FDA;}
+.div_line2 .bull{ font-family:"Verdana"; font-size:14px; color:#ffffff; line-height:30px; font-weight:bold;}
+.line2{ width:100%; float:left; margin-top:36px;height:auto; overflow:hidden; background:url(../images/EasyTraining/logo01.png) bottom right no-repeat;}
+.line2 ul{ width:100%; float:left;height:auto;  overflow:hidden;}
+.line2 .name{ font-family:"Verdana"; font-size:16px; line-height:30px; color:#FFFFFF;   }
+.line2 .left{ width:600px; height:auto;  overflow:hidden; position:absolute;   bottom: 0;
+    z-index: -1;}
+ul.guid_layout {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 250px;
+}
+ul.guid_layout li {
+        float:left;
+}
+.guid_wrap {
+    width:1322px; margin:0 auto; float:none;
+}
+.logout{font-family:"Verdana"; font-size:16px; line-height:30px; color:#FFFFFF;   }

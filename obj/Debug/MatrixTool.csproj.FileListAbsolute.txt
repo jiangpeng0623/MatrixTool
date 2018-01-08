@@ -1,0 +1,108 @@
+E:\Easy Training\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\Easy Training\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\Easy Training\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\Easy Training\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\Easy Training\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\MatrixTool (2)\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\MatrixTool (2)\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\MatrixTool (2)\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\MatrixTool (2)\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天数字\张\MatrixTool+(2)\MatrixTool (2)\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\易天数字\张\MatrixTool+(2)\MatrixTool (2)\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\易天数字\张\MatrixTool+(2)\MatrixTool (2)\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\易天数字\张\MatrixTool+(2)\MatrixTool (2)\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\易天数字\张\MatrixTool+(2)\MatrixTool (2)\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月24\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月24\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月24\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月24\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月24\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月25\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月25\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月25\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月25\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月25\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\ICSharpCode.SharpZipLib.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\itextsharp.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\Maticsoft.Common.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\NPOI.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\NPOI.OOXML.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\NPOI.OpenXml4Net.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\bin\NPOI.OpenXmlFormats.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月26\MatrixTool\MatrixTool\obj\Debug\ResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月31\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月31\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月31\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月31\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\10月31\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\11月2\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\11月2\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\11月2\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\11月2\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\bg\研发中心\开发项目\杜秋菊\maxtrixtool(2)1020\11月2\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+D:\Work\Project\Novo\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+D:\Work\Project\Novo\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+F:\LHX项目\2017项目\诺和诺德2017\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天数字\李虹旭\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_1\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool_20171201_2\MatrixTool_VS2013\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\易天数字\张\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+D:\Work\Project\Novo\MatrixTool\MatrixTool1213\MatrixTool\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\易天\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+E:\易天\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\易天\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csproj.CoreCompileInputs.cache
+E:\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\易天\易天\MatrixTool\MatrixTool\bin\MatrixTool.dll.config
+E:\易天\易天\MatrixTool\MatrixTool\bin\MatrixTool.dll
+E:\易天\易天\MatrixTool\MatrixTool\bin\MatrixTool.pdb
+E:\易天\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csprojResolveAssemblyReference.cache
+E:\易天\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csproj.CoreCompileInputs.cache
+E:\易天\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.dll
+E:\易天\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.pdb
+E:\易天\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csproj.ResolveComReference.cache
+E:\易天\MatrixTool\MatrixTool\obj\Debug\MatrixTool.csproj.ResolveComReference.cache

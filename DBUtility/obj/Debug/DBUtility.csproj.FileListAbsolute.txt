@@ -1,0 +1,282 @@
+I:\LHX项目\建设集团2015-市区分公司\系统开发\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+I:\LHX项目\建设集团2015-市区分公司\系统开发\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+I:\LHX项目\建设集团2015-市区分公司\系统开发\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+I:\LHX项目\建设集团2015-市区分公司\系统开发\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+I:\LHX项目\建设集团2015-市区分公司\系统开发\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+I:\LHX项目\OA引擎升级\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+I:\LHX项目\OA引擎升级\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+I:\LHX项目\OA引擎升级\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+I:\LHX项目\OA引擎升级\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+I:\LHX项目\OA引擎升级\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\thinkpad\Desktop\合同\20150518\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\thinkpad\Desktop\合同\20150518\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\thinkpad\Desktop\合同\20150518\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\合同\20150518\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\thinkpad\Desktop\合同\20150518\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0608\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0608\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0608\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0608\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0608\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\thinkpad\Desktop\合同\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\thinkpad\Desktop\合同\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\thinkpad\Desktop\合同\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\thinkpad\Desktop\合同\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\thinkpad\Desktop\合同\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0704\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0704\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0704\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0704\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0704\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0818\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0818\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0818\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0818\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0818\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0826\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0826\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0826\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0826\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0826\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0923\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0923\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0923\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0923\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0923\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0929\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0929\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\易天数字\Easy Traiing\project_VssFor工作流0929\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\易天数字\Easy Traiing\project_VssFor工作流0929\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\易天数字\Easy Traiing\project_VssFor工作流0929\project_VssFor工作流07041\project_VssFor工作流\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET\project_VssFor144\DBUtility\bin\Debug\DBUtility.dll
+E:\ET\project_VssFor144\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET\project_VssFor144\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET\project_VssFor144\DBUtility\obj\Debug\DBUtility.dll
+E:\ET\project_VssFor144\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET\project_VssFor1008\DBUtility\bin\Debug\DBUtility.dll
+E:\ET\project_VssFor1008\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET\project_VssFor1008\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET\project_VssFor1008\DBUtility\obj\Debug\DBUtility.dll
+E:\ET\project_VssFor1008\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET\project_VssFor1011\DBUtility\bin\Debug\DBUtility.dll
+E:\ET\project_VssFor1011\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET\project_VssFor1011\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET\project_VssFor1011\DBUtility\obj\Debug\DBUtility.dll
+E:\ET\project_VssFor1011\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET\project_VssFor100801\DBUtility\bin\Debug\DBUtility.dll
+E:\ET\project_VssFor100801\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET\project_VssFor100801\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET\project_VssFor100801\DBUtility\obj\Debug\DBUtility.dll
+E:\ET\project_VssFor100801\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1014\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1014\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1014\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1014\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1014\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1016\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1016\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1016\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1016\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1016\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1023\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1023\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1023\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1023\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1023\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1024\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1024\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1024\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1024\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1024\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1028\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1028\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1028\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1028\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1028\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1030\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1030\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1030\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1030\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1030\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1030\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1101\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1101\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1101\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1101\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1101\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1101\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1102\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1102\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1102\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1102\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1102\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1102\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1103\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1103\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1103\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1103\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1103\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1103\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1113\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1113\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1113\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1113\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1113\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1113\DBUtility\obj\Debug\DBUtility.pdb
+D:\sunh\ET\project_VssFor1113\project_VssFor1113\DBUtility\bin\Debug\DBUtility.dll
+D:\sunh\ET\project_VssFor1113\project_VssFor1113\DBUtility\bin\Debug\DBUtility.pdb
+D:\sunh\ET\project_VssFor1113\project_VssFor1113\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\sunh\ET\project_VssFor1113\project_VssFor1113\DBUtility\obj\Debug\DBUtility.dll
+D:\sunh\ET\project_VssFor1113\project_VssFor1113\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1121\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1121\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1121\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1121\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1121\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1121\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1124\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1124\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1124\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1124\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1124\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1124\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1125\project_VssFor1124\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1126\project_VssFor1126\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127\project_VssFor1126sunh\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127new\project_VssFor1126sunh\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1127new\project_VssFor1129\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1129\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1129\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1129\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1129\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1129\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1129\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1129\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1129\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1201\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1201\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1201\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1201\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1201\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1201\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1201\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1201\DBUtility\obj\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1204\DBUtility\bin\Debug\DBUtility.dll
+E:\ET2\project_VssFor1204\DBUtility\bin\Debug\DBUtility.pdb
+E:\ET2\project_VssFor1204\DBUtility\bin\Debug\EnCode.dll
+E:\ET2\project_VssFor1204\DBUtility\bin\Debug\itextsharp.dll
+E:\ET2\project_VssFor1204\DBUtility\bin\Debug\EnCode.pdb
+E:\ET2\project_VssFor1204\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\ET2\project_VssFor1204\DBUtility\obj\Debug\DBUtility.dll
+E:\ET2\project_VssFor1204\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN\DBUtility\bin\Debug\itextsharp.dll
+E:\EasyTrainingSVN\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN1212\DBUtility\bin\Debug\itextsharp.dll
+E:\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\bin\Debug\itextsharp.dll
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0411\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\adminjiwn\Desktop\EasyTrainingSVN062602\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0703\EasyTrainingSVN0628\EasyTrainingSVN0622\EasyTrainingSVN0417\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0710\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.dll
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\bin\Debug\DBUtility.pdb
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.dll
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\bin\Debug\EnCode.pdb
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.dll
+E:\EasyTrainingSVN0802\EasyTrainingSVN1212\DBUtility\obj\Debug\DBUtility.pdb

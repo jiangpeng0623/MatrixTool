@@ -1,0 +1,127 @@
+﻿table{border-collapse:collapse; border:1px solid #eee; width:100%;    table-layout: fixed; font-size:12px; text-align:center; }
+ table td {
+    text-align: center;
+    padding: 0 4px;
+    word-wrap: break-word;
+}
+.datagrid-btable td{ height: 60px;width: 80px;}
+.table_wrap{  border:1px solid #95B8E7; width:1256px;height: 516px;}
+table td,table th{ border-right:1px solid #eee; border-bottom:1px solid #eee; }
+table td{}
+.lr_all{    height: 516px;
+    position: relative;
+    overflow: hidden;
+    width: 1256px;
+    float: left;  }
+.left,.right{    position: absolute;
+    overflow: hidden;
+    top: 0;}
+.left{width: 162px; left:0;}
+.left .table_header,.right .table_header{/*width: 162px;*/    border-color: #dddddd;    overflow: hidden;/* position:absolute;*/
+    cursor: default;
+    border-width: 0 0 1px 0;
+    border-style: solid; z-index:100;
+
+    background-color: #efefef;
+    background: -webkit-linear-gradient(top,#F9F9F9 0,#efefef 100%);
+    background: -moz-linear-gradient(top,#F9F9F9 0,#efefef 100%);
+    background: -o-linear-gradient(top,#F9F9F9 0,#efefef 100%);
+    background: linear-gradient(to bottom,#F9F9F9 0,#efefef 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradien;}
+.left .table_body,.right .table_body{width: 162px; margin-top: 0px; height: 450px;    margin: 0;
+    padding: 0;
+    overflow: auto;
+    zoom: 1;    overflow: hidden;}
+	.right{    left: 160px;    width: 834px;   overflow-x: scroll;}
+.right .table_header{width: 1136px;}
+.right .table_body{/*width: 1136px;*/ margin-top: 0px;}
+.datagrid-htable, .datagrid-btable, .datagrid-ftable {
+    color: #000000;
+    border-collapse: separate;
+}
+
+.datagrid-cell {
+  
+    overflow: hidden;
+}
+/* 滚动槽 */
+.bar {     width: 12px; height:456px;  background-color:#d6f0ff;position:absolute; right:0; top:54px;}
+/* 滑轮 */
+.scroll_bar {    width: 10px; background: #333; position: absolute; left: 0; top: 0; height: 100px;
+    background-color: #9cdbff;
+    border:1px solid #7bcfff;
+    border-radius:4px; }
+.clear{ zoom:1;}
+.clear:after{ display:block; content:'';clear:both;}
+#datagrid-btable01,#datagrid-btable02 { position:relative;}
+.datagrid-title{      height: 50px;
+    overflow: hidden; line-height:24px;}
+	
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+.table_header02 .datagrid-title span{ display:block; padding-top:16px;}
+
+
+/*垂直方向的下按钮*/
+
+::-webkit-scrollbar-button:vertical:increment {
+    background:#D6F0FF;
+    height:12px;
+}
+
+
+/*横向的右边按钮*/
+
+::-webkit-scrollbar-button:horizontal:increment {
+    width:12px;
+}
+/*垂直方向的上按钮*/
+
+::-webkit-scrollbar-button:vertical:decrement {
+    height:12px;
+
+}
+
+/*横向的左按钮*/
+
+::-webkit-scrollbar-button:horizontal:decrement {
+    width:12px;
+}
+
+/*滚动槽的颜色 */
+::-webkit-scrollbar-track-piece {
+    background-color:#d6f0ff;
+}
+/* 滑轮的颜色 */
+
+::-webkit-scrollbar-thumb:vertical {
+    height: 12px;
+    background-color: #9cdbff;
+    border:1px solid #7bcfff;
+    border-radius:4px;
+}
+
+::-webkit-scrollbar-thumb:horizontal{
+    height: 12px;
+    background-color: #9cdbff;
+    border:1px solid #7bcfff;
+    border-radius:4px;
+
+}
+html,body {
+scrollbar-face-color:#7bcfff; /*滚动条3D表面（ThreedFace）的颜色*/ 
+scrollbar-highlight-color:#d6f0ff; /*滚动条3D界面的亮边（ThreedHighlight）颜色*/ 
+scrollbar-shadow-color:#d6f0ff; /*滚动条3D界面的暗边（ThreedShadow）颜色*/ 
+scrollbar-3dlight-color:#9cdbff; /*滚动条亮边框颜色*/ 
+scrollbar-arrow-color:#d6f0ff; /*滚动条方向箭头的颜色 */ 
+scrollbar-track-color:#d6f0ff; /*滚动条的拖动区域(TrackBar)颜色*/
+scrollbar-darkshadow-color:#9cdbff; /*滚动条暗边框（ThreedDarkShadow）颜色*/ }
+}
+.data_td{width:100px;}
+
+/* 新增20170424 */
+.lr{ height:260px;}
+
