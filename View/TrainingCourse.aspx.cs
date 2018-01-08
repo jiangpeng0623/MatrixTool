@@ -14,7 +14,7 @@ namespace MatrixTool.View
         /// </summary>
         int pageNo = 0;
         /// <summary>
-        /// 内容条数1
+        /// 内容条数
         /// </summary>
         int pageSize = 20;
 
