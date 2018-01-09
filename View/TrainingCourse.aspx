@@ -151,8 +151,15 @@
                             <ItemStyle Wrap="True" Width="10%" />
                         </asp:BoundField>
 
-                        <asp:BoundField DataField="Time" HeaderText="时间<br/>Time" SortExpression="Edition" HtmlEncode="False">
+<%--                        <asp:BoundField DataField="Time" HeaderText="时间<br/>Time" SortExpression="Edition" HtmlEncode="False">
                             <ItemStyle Wrap="True" Width="20%" />
+                        </asp:BoundField>--%>
+                        <asp:BoundField DataField="StartTime" HeaderText="开始时间<br/>Update Time" DataFormatString="{0:yyyy-MM-dd hh:mm:ss}"  HtmlEncode="false">
+                        <ItemStyle  Wrap="true" Width="10%"/>
+                        </asp:BoundField>
+
+                        <asp:BoundField DataField="EndTime" HeaderText="结束时间<br/>Update Time" DataFormatString="{0:yyyy-MM-dd hh:mm:ss}"  HtmlEncode="false">
+                        <ItemStyle  Wrap="true" Width="10%"/>
                         </asp:BoundField>
 
                         <asp:BoundField DataField="Address" HeaderText="地点<br/>Address" SortExpression="Edition" HtmlEncode="False">

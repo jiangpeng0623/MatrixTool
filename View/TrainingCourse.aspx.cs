@@ -78,16 +78,23 @@ namespace MatrixTool.View
             DataTable dt = ds.Tables[0];
             dtExcel = dt;
             num = dt.Rows.Count;
-            dt.Columns.Add("Time", typeof(string));
-            for (int i = 0; i < dt.Rows.Count; i++)
-            {
-                dt.Rows[i]["Time"] = dt.Rows[i]["StartTime"].ToString() + " -- " + dt.Rows[i]["EndTime"].ToString();
-            }
+            //dt.Columns.Add("Time", typeof(string));
+            //for (int i = 0; i < dt.Rows.Count; i++)
+            //{
+            //    dt.Rows[i]["Time"] = dt.Rows[i]["StartTime"].ToString() + " -- " + dt.Rows[i]["EndTime"].ToString();
+            //}
             DataTable dataTableSerach;
             dataTableSerach = getOnePageTable(dt, pageNo, pageSize);
             GridView1.DataSource = dataTableSerach;
             GridView1.DataBind();
-            labAll.Text = ((num / pageSize) + 1).ToString();
+            if (num % pageSize == 0)
+            {
+                labAll.Text = (num / pageSize).ToString();
+            }
+            else
+            {
+                labAll.Text = ((num / pageSize) + 1).ToString();
+            }
 
             this.ddlCurrentPage.Items.Clear();
             for (int i = 1; i <= Convert.ToInt32(labAll.Text); i++)
@@ -152,6 +159,15 @@ namespace MatrixTool.View
         protected void Btn_Export_Click(object sender, EventArgs e)
         {
             BindData();
+            dtExcel.Columns.Remove("ID");
+            dtExcel.Columns.Remove("CreateUser");
+            dtExcel.Columns.Remove("CreateTime");
+            //for (int i = 0; i < dtExcel.Rows.Count; i++)
+            //{
+            //    //dtExcel.Rows[i]["StartTime"] = dtExcel.Rows[i]["StartTime"].ToString();
+            //    dtExcel.Rows[i]["StartTime"] = string.Format("{0:G}", dtExcel.Rows[i]["StartTime"]);
+            //    dtExcel.Rows[i]["EndTime"] = string.Format("{0:G}", dtExcel.Rows[i]["EndTime"]);
+            //}
             Export("CourseExcel", dtExcel, "CourseExcel");
         }
 
